@@ -46,5 +46,5 @@ Azure AI Studio is designed for the full **AI development lifecycle**:
 
 Azure AI Studio offers a powerful, unified platform to create, test, and deploy sophisticated generative AI applications. Whether you are building for text, image, or multi-modal use cases, Azure AI Studio provides all the tools you need for full-cycle AI development, from prompt design to deployment.
 
-Get started with Azure AI Studio at [ai.azure.com](https://ai.azure.com). For tutorials, see the QuickStart guides at [aka.ms/LearnAIStudio](https://aka.ms/LearnAIStudio). Stay tuned to Microsoft Mechanics for the latest in AI technology.
+Get started with Azure AI Studio at [ai.azure.com](https://ai.azure.com). For tutorials, see the QuickStart guides at [aka.ms/LearnAIStudio](https://aka.ms/LearnAIStudio). 
 
