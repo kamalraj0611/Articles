@@ -24,11 +24,11 @@ Azure AI Studio is designed for the full **AI development lifecycle**:
 
 3. **Deploying Models**: Choose from dozens of models available in the Azure Model Catalog. After deployment, navigate to the Playground, where you can experiment with prompts using the deployed model.
 
-4. **Customizing System Messages**: Customize default system messages to add context to the copilot's responses. For instance, if you're building a **Hiking Recommendations Chatbot**, select specific messages for relevant, helpful responses.
+4. **Customizing System Messages**: Customize default system messages to add context to the copilot's responses. For instance, if you're building a **Food Recommendations Chatbot**, select specific messages for relevant, helpful responses.
 
 5. **Data Integration for Grounding**: Ground your copilot by linking it to data sources. Azure AI Studio allows you to index and search your data using **Azure AI Search** and **OneLake**. By combining keyword and vector searches, Azure AI Studio provides accurate responses based on user intent.
 
-6. **Testing with Prompts**: Use the Playground to refine prompts and review outputs. For example, asking "Which hiking shoes should I get?" returns relevant results like the "TrailWalker Hiking shoes," thanks to retrieval-augmented generation.
+6. **Testing with Prompts**: Use the Playground to refine prompts and review outputs. For example, asking "What is highest ratest food in the town?" returns relevant results like the "Idly, Dosa" thanks to retrieval-augmented generation.
 
 7. **Multi-Modality Features**: Beyond text, Azure AI Studio supports multimedia data inputs. With **DALL-E 3** for image generation and **Azure AI Vision Video Retrieval**, you can add images and videos for a richer user experience.
 
